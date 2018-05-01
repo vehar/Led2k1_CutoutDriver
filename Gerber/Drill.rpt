@@ -1,0 +1,15 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\Anastasia\Dropbox\DC-DC_LED_driver_v5\DC-DC_LED_driver_v5.3\Gerber\Drill.drl
+Format: 4.4
+Units: Metric (mm.)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.3000		60
+ 2 		0.5000		2
+ 3 		0.7000		2
+ 4 		0.9000		3
